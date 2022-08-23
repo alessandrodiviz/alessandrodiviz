@@ -12,4 +12,4 @@
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![Alessandro Divita's github stats](https://github-readme-stats.vercel.app/api?username=alessandrodiviz&show_icons=true&hide_border=true)
+![My stats on Github](https://github-readme-stats.vercel.app/api?username=alessandrodiviz&show_icons=true&hide_border=true)
